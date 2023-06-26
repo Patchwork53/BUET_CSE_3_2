@@ -1,6 +1,9 @@
 # BUET_CSE_3_2
 Offlines, Onlines and Projects of Level 3 Term 2
 
+### CSE301
+Assignment on Selected Exercises from Concrete Mathematics 2nd Ed.
+
 ### CSE314
 Bombed the onlines. The offlines are mostly correct.
 
